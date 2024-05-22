@@ -32,5 +32,5 @@ def test_derive3():
 
 if __name__ == "__main__":
     test_derive()
-    #test_derive2()
-    #test_derive3()
+    test_derive2()
+    test_derive3()
